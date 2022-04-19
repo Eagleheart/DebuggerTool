@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WinDebugQt", "WinDebugQt\WinDebugQt.vcxproj", "{3C9CE9AA-71A0-4804-A3AC-DDDA13051A79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C9CE9AA-71A0-4804-A3AC-DDDA13051A79}.Debug|x64.ActiveCfg = Debug|x64
+		{3C9CE9AA-71A0-4804-A3AC-DDDA13051A79}.Debug|x64.Build.0 = Debug|x64
+		{3C9CE9AA-71A0-4804-A3AC-DDDA13051A79}.Release|x64.ActiveCfg = Release|x64
+		{3C9CE9AA-71A0-4804-A3AC-DDDA13051A79}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22C5AE21-EFC6-4B15-9A1E-C95E142B29AA}
+	EndGlobalSection
+EndGlobal
